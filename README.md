@@ -1,3 +1,4 @@
+![logo](https://github.com/ParthM16/ParthM16/blob/main/Data%20Analyst%20Banner.png)
 <h1 align="center">Hi 👋, I'm Parth Maheshwari</h1>
 <h3 align="center">A passionate Data Analyst from United States</h3>
 
